@@ -1,0 +1,6 @@
+*.pt
+*.json
+data
+test
+training
+validation
